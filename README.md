@@ -9,21 +9,22 @@
 - 🎓 Undergrad student passionate about **Data Science** & **AI**
 - 🔬 Currently exploring **Machine Learning**, **Deep Learning**, and **NLP**
 - 💻 Experienced in **Python**, **SQL**, and **Data Visualization**
-- 🛠️ Practicing & learning on platforms like **Kaggle**, **GitHub**, and through inspiring mentors like **Krish Naik**
+- 🛠️ Practicing & learning on platforms like **GitHub**, and through inspiring mentors like **Krish Naik**
 - 🌱 Constantly upgrading my skills and contributing to projects that solve real-world problems
 
 ---
 
-## 🔨 Tech Stack
+## 🔨 Languages & Tools
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=Matplotlib)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=Matplotlib" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
+</p>
 
 ---
 
